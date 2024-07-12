@@ -2,8 +2,8 @@ Hello World
 =
 
 - 👋 Hi, I’m @batistafull
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning mongodb
+- 💗 I love in javascript
+- 🦀 I’m currently learning rust
 - 💞️ I’m looking to collaborate on suitecrm
 - 📫 How to reach me albertomimi16@gmail.com
 
